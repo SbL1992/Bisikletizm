@@ -99,9 +99,10 @@ ul{
     list-style: none;
 }
 .box li a{
-    font-size: 40px;
+    font-size: 30px;
     color: rgb(27, 11, 167);
     transition: all ease-in-out 250ms;
+    align-items: center;
 }
 .box li a:hover{
     color: aqua;
